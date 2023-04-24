@@ -1,9 +1,11 @@
 ---
-title: "Frank Hermosillo"
+title: "Shirley Alquicira"
 image: "frank.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
+  - label: Facebook
+    url: "https://www.facebook.com/shirley.alquicira.1"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
@@ -34,6 +36,12 @@ Ph.D. in Computer Science | September 2009 - May 2014
 B.S. in Computer Science | September 2005 - May 2009
 
 ## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
+
+## Other section
 
 **Google Brain** | Principal Investigator | January 2018 - Present
 
